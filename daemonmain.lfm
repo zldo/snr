@@ -1,0 +1,10 @@
+object SnrMonDaemon: TSnrMonDaemon
+  OnCreate = DataModuleCreate
+  OldCreateOrder = False
+  OnStart = DataModuleStart
+  OnStop = DataModuleStop
+  Height = 323
+  HorizontalOffset = 259
+  VerticalOffset = 295
+  Width = 489
+end

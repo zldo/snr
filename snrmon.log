@@ -1,0 +1,3 @@
+snrmon [2017-08-25 08:21:54.222 Info] Daemon SNR Monitor current status: Start Pending
+snrmon [2017-08-25 08:21:54.227 Info] Daemon SNR Monitor current status: Running
+snrmon [2017-08-25 08:21:55.331 Error] SQL Error: Can't connect to MySQL server on '192.168.1.110' (10061)

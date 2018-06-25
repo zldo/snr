@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Release"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="snrmon.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="60"/>
+        <CursorPos Y="73"/>
+        <UsageCount Value="496"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="../snrmonthreads.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <CursorPos X="47" Y="14"/>
+        <UsageCount Value="496"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="../snrmon.sh"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="3" Y="5"/>
+        <UsageCount Value="84"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Bash"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="11" HistoryIndex="10">
+      <Position1>
+        <Filename Value="snrmon.lpr"/>
+        <Caret Line="51" TopLine="34"/>
+      </Position1>
+      <Position2>
+        <Filename Value="snrmon.lpr"/>
+        <Caret Line="56" TopLine="34"/>
+      </Position2>
+      <Position3>
+        <Filename Value="snrmon.lpr"/>
+        <Caret Line="58" TopLine="34"/>
+      </Position3>
+      <Position4>
+        <Filename Value="snrmon.lpr"/>
+        <Caret Line="56" TopLine="34"/>
+      </Position4>
+      <Position5>
+        <Filename Value="snrmon.lpr"/>
+        <Caret Line="58" TopLine="34"/>
+      </Position5>
+      <Position6>
+        <Filename Value="snrmon.lpr"/>
+        <Caret Line="98" TopLine="75"/>
+      </Position6>
+      <Position7>
+        <Filename Value="snrmon.lpr"/>
+        <Caret Line="73" TopLine="57"/>
+      </Position7>
+      <Position8>
+        <Filename Value="snrmon.lpr"/>
+        <Caret Line="77" TopLine="57"/>
+      </Position8>
+      <Position9>
+        <Filename Value="snrmon.lpr"/>
+        <Caret Line="103" TopLine="75"/>
+      </Position9>
+      <Position10>
+        <Filename Value="snrmon.lpr"/>
+        <Caret Line="56" TopLine="34"/>
+      </Position10>
+      <Position11>
+        <Filename Value="snrmon.lpr"/>
+        <Caret Line="58" TopLine="34"/>
+      </Position11>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

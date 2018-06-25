@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Release"/>
+    <Units Count="17">
+      <Unit0>
+        <Filename Value="snrmon.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="36" Y="15"/>
+        <UsageCount Value="282"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="daemonmapp.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="SnrDaemonMapper"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="3" Y="38"/>
+        <UsageCount Value="282"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="daemonmain.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="SnrMonDaemon"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="47"/>
+        <CursorPos X="35" Y="70"/>
+        <UsageCount Value="282"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="snrmonthreads.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="652"/>
+        <CursorPos X="43" Y="86"/>
+        <UsageCount Value="274"/>
+        <Bookmarks Count="1">
+          <Item0 X="3" Y="328" ID="1"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\codetyphon\typhon\components\pl_Synapse\source\snmpsend.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="863"/>
+        <CursorPos X="3" Y="867"/>
+        <UsageCount Value="7"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\codetyphon\fpcsrc\packages\fcl-db\src\base\db.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2158"/>
+        <CursorPos X="5" Y="1994"/>
+        <UsageCount Value="4"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\codetyphon\typhon\components\pl_Synapse\source\blcksock.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4090"/>
+        <CursorPos X="17" Y="4120"/>
+        <UsageCount Value="2"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\codetyphon\typhon\components\pl_Synapse\source\asn1util.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="58"/>
+        <CursorPos X="19" Y="468"/>
+        <UsageCount Value="2"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1653"/>
+        <CursorPos X="20" Y="1669"/>
+        <UsageCount Value="3"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="D:\usr\share\lazarus\1.6\components\zeos\src\dbc\ZDbcMySqlUtils.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="418"/>
+        <CursorPos Y="434"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="D:\usr\share\lazarus\1.6\components\zeos\src\component\ZAbstractConnection.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="837"/>
+        <CursorPos Y="852"/>
+        <UsageCount Value="88"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="snrmon.sh"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="67"/>
+        <CursorPos X="34" Y="8"/>
+        <UsageCount Value="102"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Bash"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="D:\usr\share\fpcsrc\3.0.0\packages\fcl-db\src\base\db.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1646"/>
+        <CursorPos X="15" Y="1660"/>
+        <UsageCount Value="68"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="D:\usr\share\fpcsrc\3.0.0\packages\fcl-db\src\base\dataset.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2094"/>
+        <CursorPos X="3" Y="2097"/>
+        <UsageCount Value="68"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="1586"/>
+        <CursorPos X="14" Y="1601"/>
+        <UsageCount Value="79"/>
+        <Loaded Value="True"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\win\tthread.inc"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="95"/>
+        <CursorPos X="3" Y="108"/>
+        <UsageCount Value="79"/>
+        <Loaded Value="True"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\win\wininc\func.inc"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="145"/>
+        <CursorPos X="10" Y="161"/>
+        <UsageCount Value="79"/>
+        <Loaded Value="True"/>
+      </Unit16>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="155" TopLine="135"/>
+      </Position1>
+      <Position2>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="156" TopLine="135"/>
+      </Position2>
+      <Position3>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="585" TopLine="569"/>
+      </Position3>
+      <Position4>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="586" TopLine="569"/>
+      </Position4>
+      <Position5>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="587" TopLine="569"/>
+      </Position5>
+      <Position6>
+        <Filename Value="daemonmain.pas"/>
+        <Caret Line="51" TopLine="42"/>
+      </Position6>
+      <Position7>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="650" Column="23" TopLine="625"/>
+      </Position7>
+      <Position8>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="582" Column="9" TopLine="574"/>
+      </Position8>
+      <Position9>
+        <Filename Value="C:\lazarus\fpc\2.6.4\source\rtl\win\tthread.inc"/>
+        <Caret Line="108" Column="3" TopLine="95"/>
+      </Position9>
+      <Position10>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="578" TopLine="574"/>
+      </Position10>
+      <Position11>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="151" TopLine="149"/>
+      </Position11>
+      <Position12>
+        <Filename Value="snrmon.lpr"/>
+        <Caret Line="22" Column="3"/>
+      </Position12>
+      <Position13>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Column="32"/>
+      </Position13>
+      <Position14>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="86" Column="43" TopLine="59"/>
+      </Position14>
+      <Position15>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="146" Column="10" TopLine="119"/>
+      </Position15>
+      <Position16>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="152" Column="10" TopLine="125"/>
+      </Position16>
+      <Position17>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="154" Column="10" TopLine="127"/>
+      </Position17>
+      <Position18>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="305" Column="23" TopLine="285"/>
+      </Position18>
+      <Position19>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="306" Column="19" TopLine="285"/>
+      </Position19>
+      <Position20>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="355" Column="59" TopLine="328"/>
+      </Position20>
+      <Position21>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="357" Column="33" TopLine="330"/>
+      </Position21>
+      <Position22>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="364" Column="10" TopLine="337"/>
+      </Position22>
+      <Position23>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="366" Column="10" TopLine="339"/>
+      </Position23>
+      <Position24>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="584" Column="10" TopLine="557"/>
+      </Position24>
+      <Position25>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="586" Column="10" TopLine="559"/>
+      </Position25>
+      <Position26>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="606" Column="21" TopLine="579"/>
+      </Position26>
+      <Position27>
+        <Filename Value="snrmonthreads.pas"/>
+        <Caret Line="614" Column="22" TopLine="587"/>
+      </Position27>
+      <Position28>
+        <Filename Value="snrmon.lpr"/>
+        <Caret Line="26"/>
+      </Position28>
+      <Position29>
+        <Filename Value="snrmon.lpr"/>
+        <Caret Column="5"/>
+      </Position29>
+      <Position30>
+        <Filename Value="snrmon.lpr"/>
+        <Caret Line="22" Column="3"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="5">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="C:\lazarus\components\zeos\src\component\ZAbstractConnection.pas"/>
+        <Line Value="852"/>
+      </Item1>
+      <Item2>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="daemonmain.pas"/>
+        <Line Value="69"/>
+      </Item2>
+      <Item3>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="daemonmain.pas"/>
+        <Line Value="62"/>
+      </Item3>
+      <Item4>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="daemonmain.pas"/>
+        <Line Value="60"/>
+      </Item4>
+      <Item5>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="snrmonthreads.pas"/>
+        <Line Value="151"/>
+      </Item5>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

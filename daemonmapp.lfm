@@ -1,0 +1,20 @@
+object SnrDaemonMapper: TSnrDaemonMapper
+  DaemonDefs = <  
+    item
+      DaemonClassName = 'TSnrMonDaemon'
+      Name = 'snr-erd'
+      Description = 'SNR devices monitoring service'
+      DisplayName = 'SNR Monitor'
+      Options = [doAllowStop]
+      WinBindings.Dependencies = <>
+      WinBindings.StartType = stAuto
+      WinBindings.WaitHint = 0
+      WinBindings.IDTag = 0
+      WinBindings.ServiceType = stWin32
+      WinBindings.ErrorSeverity = esCritical
+      LogStatusReport = False
+    end>
+  OnRun = SnrDaemonMapperRun
+  left = 259
+  top = 295
+end
