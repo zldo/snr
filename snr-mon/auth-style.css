@@ -1,0 +1,65 @@
+body {
+	background-color: #ffffff;
+	font-size: 12px;
+	font-family: "Courier New";
+	padding: 0px;
+	margin: 0px;
+}
+
+#content {
+	position: absolute;
+	height: 180px;
+	width: 400px;
+	margin: -90px 0px 0px -180px;
+	top: 50%;
+	left: 50%;
+	text-align: left;
+	padding: 0px;
+        background-color: #e6e6e6;
+	border: 1px dotted #1e1e1e;
+	overflow: hidden;
+}
+
+h1 {
+	border-bottom: 1px dotted #ae9d00;
+	background-color: #003366;
+        margin: 0px 0px 0px 0px;
+	color: white;
+        font-size: 16pt;
+	font-family: "Times New Roman";
+}
+
+table.authtable {
+	border-left-color: #7f0000;
+	border-left-style: solid;
+	border-left-width: 5px;
+	margin: 10px 10px;
+	text-align: right;
+}
+
+td.authtd-error {
+	font-family: serif;
+	font-size: smaller;
+	font-weight: bold;
+	color: red;
+	text-align: center;
+}
+
+td.authtd-submit {
+	text-align: right;
+}
+
+input {
+	border: 1px solid #aaaaaa;
+	color: #1e1e1e;
+}
+
+.submit {
+	background: #d8d8d8;	
+}
+	
+textarea {
+	border: 1px solid #aaaaaa;
+	color: #1e1e1e;
+	width: 65%;
+}
